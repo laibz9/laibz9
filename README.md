@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Toon-black?style=for-the-badge&logo=github)](https://github.com/laibz9)
-[![Discord](https://img.shields.io/badge/Discord-Toon%234567-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-laibz9-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 ✨ **Feel free to explore my repositories!**
