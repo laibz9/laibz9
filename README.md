@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Toon!
 
-<!--
-**laibz9/laibz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔥 Passionate about coding and learning new technologies
+- 🎯 Currently interested in **Disnake** for Discord bot development
+- ❄️ Winter lover – it makes me feel comfortable!
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Toon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laibz9&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Disnake](https://img.shields.io/badge/Disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### 🔗 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Toon-black?style=for-the-badge&logo=github)](https://github.com/laibz9)
+[![Discord](https://img.shields.io/badge/Discord-Toon%234567-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+---
+✨ **Feel free to explore my repositories!**
