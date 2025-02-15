@@ -13,7 +13,7 @@
 ![Disnake](https://img.shields.io/badge/Disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Toon-black?style=for-the-badge&logo=github)](https://github.com/laibz9)
+[![GitHub](https://img.shields.io/badge/GitHub-Laibz9-black?style=for-the-badge&logo=github)](https://github.com/laibz9)
 [![Discord](https://img.shields.io/badge/Discord-laibz9-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
